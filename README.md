@@ -16,7 +16,7 @@ git clone https://github.com/Raynswor/LaTexToTypst.git
 cd LaTexToTypst/latex-to-typst
 ```
 
-No dependencies are needed at the moment. 
+No dependencies are needed at the moment.
 
 ## Usage
 
@@ -104,6 +104,14 @@ latex-to-typst
 ## Contributing
 
 Pull requests and issues are welcome!
+
+## Disclaimer
+
+**This is an unofficial tool** and is not affiliated with or endorsed by the Typst project or its developers.
+
+**Use at your own risk.** This software is provided "as is" without warranty of any kind. The authors and contributors are not liable for any damages, data loss, or other issues that may arise from using this tool. Always backup your original LaTeX files before conversion and carefully review the converted output.
+
+The conversion process may not be perfect and manual adjustments may be required for complex documents.
 
 ## License
 
